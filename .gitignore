@@ -1,0 +1,9 @@
+.vscode
+.idea
+build
+dist
+mspy/build
+__pycache__
+
+.python-version
+*.pyc
